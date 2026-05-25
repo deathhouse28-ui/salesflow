@@ -1,0 +1,20 @@
+{
+  "name": "SalesFlow - Appointment Setter",
+  "short_name": "SalesFlow",
+  "description": "Track contacts, notes, and follow-ups for sales — all on-device.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007AFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "business"]
+}
